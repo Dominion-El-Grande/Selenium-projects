@@ -1,4 +1,4 @@
-name: Selenium Java Automation Tests
+name: Ecommerce Tests
 
 on:
   push:
