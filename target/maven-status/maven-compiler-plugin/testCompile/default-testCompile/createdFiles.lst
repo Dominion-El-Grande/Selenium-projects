@@ -1,0 +1,8 @@
+pages/CheckoutPage.class
+tests/LoginTest.class
+com/example/selenium/AppTest.class
+pages/HomePage.class
+tests/CheckoutTest.class
+utils/TestUtil.class
+pages/LoginPage.class
+base/BaseTest.class

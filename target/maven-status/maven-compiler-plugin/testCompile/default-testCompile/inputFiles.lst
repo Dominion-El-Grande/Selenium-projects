@@ -1,0 +1,8 @@
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/base/BaseTest.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/pages/HomePage.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/pages/CheckoutPage.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/utils/TestUtil.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/pages/LoginPage.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/tests/LoginTest.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/com/example/selenium/AppTest.java
+/home/dominionakinyobola/SeleniumEcommerceAutomation/SeleniumEcommerceAutomation/src/test/java/tests/CheckoutTest.java
